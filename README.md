@@ -9,9 +9,9 @@ weather-related information from multiple sources in near real time.
 ## 🎥 Project Demo
 
 [![Watch NEXTORM Demo on
-YouTube]([https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?logo=youtube&logoColor=white](https://youtu.be/eOIGAas5zw4))](YOUTUBE_VIDEO_LINK)
+YouTube](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/eOIGAas5zw4)
 
-**▶️ [Watch the Project Video on YouTube](YOUTUBE_VIDEO_LINK)**
+**▶️ [Watch the Project Video on YouTube](https://youtu.be/eOIGAas5zw4)**
 
 > Replace `YOUR_YOUTUBE_VIDEO_LINK` with the final YouTube video URL.
 
@@ -24,7 +24,7 @@ YouTube]([https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?logo=youtu
   Theme                  Disaster Management
   Category               Software
   Team ID                140579
-  Team                   eMandimarket / MegaMind
+  Team                   MegaMind (formerly eMandimarket)
   Project                NEXTORM
 
 ## 🎯 Problem
