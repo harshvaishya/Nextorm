@@ -9,9 +9,9 @@ weather-related information from multiple sources in near real time.
 ## 🎥 Project Demo
 
 [![Watch NEXTORM Demo on
-YouTube](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/eOIGAas5zw4)
+YouTube](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/Ap9H2--Jll8)
 
-**▶️ [Watch the Project Video on YouTube](https://youtu.be/eOIGAas5zw4)**
+**▶️ [Watch the Project Video on YouTube](https://youtu.be/Ap9H2--Jll8)**
 
 > Replace `YOUR_YOUTUBE_VIDEO_LINK` with the final YouTube video URL.
 
