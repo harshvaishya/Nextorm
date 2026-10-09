@@ -6,6 +6,19 @@ NEXTORM is a proposed National Weather Big Data Analytics Platform for
 collecting, processing, verifying, classifying and visualizing
 weather-related information from multiple sources in near real time.
 
+## 🌐 Project Prototype
+
+Explore the NEXTORM interactive web prototype for real-time weather intelligence, verified weather events, map visualization, and citizen reporting.
+
+<p align="center">
+  <a href="https://ai.studio/apps/950622e8-b738-4599-bda5-fa3aa53a6fb3?fullscreenApplet=true">
+    <img src="https://img.shields.io/badge/🚀_Launch-Interactive_Prototype-0A66FF?style=for-the-badge" alt="Launch NEXTORM Prototype">
+  </a>
+</p>
+
+**Prototype:** [Open NEXTORM Web App](https://ai.studio/apps/950622e8-b738-4599-bda5-fa3aa53a6fb3?fullscreenApplet=true)
+
+---
 ## 🎥 Project Demo
 
 [![Watch NEXTORM Demo on
